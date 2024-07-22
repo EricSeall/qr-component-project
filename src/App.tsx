@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div className="window">
-        <img className="qr-code" src="/src/assets/image-qr-code.png"></img>
+        <img className="qr-code" src="image-qr-code.png"></img>
 
         <h1 className="title">
           Improve your front-end skills by building projects
